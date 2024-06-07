@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="CleanData" type="JetRunConfigurationType">
+    <option name="MAIN_CLASS_NAME" value="org.example.MainKt" />
+    <module name="transformer.main" />
+    <option name="PROGRAM_PARAMETERS" value=" clean --input ./src/main/resources/textfiles/basic_scores_small.txt --output ./src/main/resources/generatedExcel/demo.xlsx" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
